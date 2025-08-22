@@ -1,0 +1,15 @@
+ros-humble-ewellix-viz (0.1.1-1jammy) jammy; urgency=high
+
+  * Update license entry in package.xml
+  * Add visualization and simulation packages
+  * Contributors: Luis Camero
+
+ -- Luis Camero <lcamero@clearpathrobotics.com>  Fri, 22 Aug 2025 04:00:00 -0000
+
+ros-humble-ewellix-viz (0.1.0-1jammy) jammy; urgency=high
+
+
+
+ -- Luis Camero <lcamero@clearpathrobotics.com>  Wed, 15 Jan 2025 05:00:00 -0000
+
+
