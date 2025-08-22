@@ -2,14 +2,11 @@
 Changelog for package ewellix_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.2.0 (2025-08-18)
+0.1.1 (2025-08-22)
 ------------------
 * Add argument to disable mount and base plates
 * Update license entry in package.xml
-* Merge branch 'feature/ur620' into jazzy
 * Add mount plate mesh
-* Use  as parameter
-* Migrate gazebo away from ignition
 * Add UR620 meshes and config
 * Contributors: Luis Camero
 

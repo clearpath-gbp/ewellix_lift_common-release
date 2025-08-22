@@ -105,7 +105,7 @@ def generate_launch_description():
             ' ',
             urdf,
             ' ',
-            'sim_gazebo:=',
+            'sim_ignition:=',
             use_sim_time,
             ' ',
             'use_fake_hardware:=',
