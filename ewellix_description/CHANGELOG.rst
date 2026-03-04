@@ -2,11 +2,19 @@
 Changelog for package ewellix_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.1.1 (2025-08-22)
+0.2.1 (2026-03-04)
+------------------
+* Pass encoder limits to hardware interface
+* Contributors: Luis Camero
+
+0.2.0 (2025-08-18)
 ------------------
 * Add argument to disable mount and base plates
 * Update license entry in package.xml
+* Merge branch 'feature/ur620' into jazzy
 * Add mount plate mesh
+* Use  as parameter
+* Migrate gazebo away from ignition
 * Add UR620 meshes and config
 * Contributors: Luis Camero
 
