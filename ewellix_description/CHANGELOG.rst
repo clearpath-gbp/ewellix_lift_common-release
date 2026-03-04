@@ -2,6 +2,11 @@
 Changelog for package ewellix_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.1 (2026-03-04)
+------------------
+* Pass encoder limits to hardware interface
+* Contributors: Luis Camero
+
 0.2.0 (2025-08-18)
 ------------------
 * Add argument to disable mount and base plates
