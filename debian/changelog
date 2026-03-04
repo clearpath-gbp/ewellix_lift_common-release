@@ -1,0 +1,23 @@
+ros-jazzy-ewellix-viz (0.2.1-2noble) noble; urgency=high
+
+
+
+ -- Luis Camero <lcamero@clearpathrobotics.com>  Wed, 04 Mar 2026 05:00:00 -0000
+
+ros-jazzy-ewellix-viz (0.2.0-2noble) noble; urgency=high
+
+  * Update license entry in package.xml
+  * Merge pull request #1 <https://github.com/clearpathrobotics/ewellix_lift_common/issues/1> from clearpathrobotics/feature/viz
+    Feature:  Move RViz and Simulation to ewellix_lift_common
+  * Add visualization and simulation packages
+  * Contributors: Luis Camero
+
+ -- Luis Camero <lcamero@clearpathrobotics.com>  Mon, 18 Aug 2025 04:00:00 -0000
+
+ros-jazzy-ewellix-viz (0.1.0-2noble) noble; urgency=high
+
+
+
+ -- Luis Camero <lcamero@clearpathrobotics.com>  Wed, 15 Jan 2025 05:00:00 -0000
+
+
