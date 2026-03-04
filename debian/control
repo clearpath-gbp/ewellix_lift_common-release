@@ -1,0 +1,12 @@
+Source: ros-jazzy-ewellix-sim
+Section: misc
+Priority: optional
+Maintainer: Luis Camero <lcamero@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-jazzy-ament-cmake, ros-jazzy-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jazzy-ewellix-sim
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jazzy-ewellix-interfaces, ros-jazzy-ewellix-moveit-config, ros-jazzy-gz-ros2-control, ros-jazzy-ros-gz, ros-jazzy-rviz2, ros-jazzy-ros-workspace
+Description: Clearpath's simulation package for Ewellix TLT lifting columns
