@@ -1,0 +1,43 @@
+ros-jazzy-ewellix-description (0.2.1-1noble) noble; urgency=high
+
+  * Pass encoder limits to hardware interface
+  * Contributors: Luis Camero
+
+ -- Luis Camero <lcamero@clearpathrobotics.com>  Wed, 04 Mar 2026 05:00:00 -0000
+
+ros-jazzy-ewellix-description (0.2.0-1noble) noble; urgency=high
+
+  * Add argument to disable mount and base plates
+  * Update license entry in package.xml
+  * Merge branch 'feature/ur620' into jazzy
+  * Add mount plate mesh
+  * Use  as parameter
+  * Migrate gazebo away from ignition
+  * Add UR620 meshes and config
+  * Contributors: Luis Camero
+
+ -- Luis Camero <lcamero@clearpathrobotics.com>  Mon, 18 Aug 2025 04:00:00 -0000
+
+ros-jazzy-ewellix-description (0.1.0-1noble) noble; urgency=high
+
+  * Add launch parameter to modify lift description
+  * Add friction and initialize lift extended
+  * Add all meshes and description configs
+  * Updated URDF and MoveIt for mimic joint
+  * Add gazebo tag
+  * Add gazebo tag
+  * Use mimic joint
+  * Pass origin instead of block
+  * Reset package versions to 0.0.0
+  * remove empty dependency
+  * Add sample URDF
+  * Increase tolerance
+  * Fix position of mounting link
+  * Add 2.25cm offset to upper tower
+  * Initial add of Ewellix driver
+  * Initial description package
+  * Contributors: Luis Camero
+
+ -- Luis Camero <lcamero@clearpathrobotics.com>  Wed, 15 Jan 2025 05:00:00 -0000
+
+
